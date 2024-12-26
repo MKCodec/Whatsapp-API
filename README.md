@@ -1,3 +1,3 @@
 # Whatsapp-API for Mwsm
 > ### WhatsApp-Web.js
-> 1.23.1-alpha.5
+> v1.26.1-alpha.3
